@@ -1,0 +1,24 @@
+Osoby wykonuj¹ce projekt: B³a¿ej Urbanek, Kuba Firszt
+
+Temat projektu: Interfejs autonomiczny pojazdu.
+
+Wykorzystana technologia: WPF
+
+G³ówne za³o¿enia:
+
+1) Mo¿liwoœæ interaktywnego wyœwietlania danych na zegarach wskazuj¹cych prêdkoœæ, iloœæ obrotów silnika etc.
+W tym celu chêtnie pos³u¿ylibyœmy siê gotowymi grafikami z tego linku: https://www.codeproject.com/Articles/448721/AGauge-WinForms-Gauge-Control
+
+2) Dynamiczne generowanie wykresów na panelu interfejsu, np. wykres zu¿ycia paliwa, który podczas dzia³ania interfejsu generuje siê w czasie rzeczywistym. + zapis danych do pliku .xls
+
+3) Sterowanie interfejsem za pomoc¹ poleceñ g³osowych (wykorzystanie gotowej klasy SpeechRecognitionEngine();
+
+4) Logowanie za pomoc¹ has³a
+
+Opcjonalnie:
+- Pobieranie danych z internetu na temat pogody/gps
+
+Przydzia³ zadañ wg punktów z za³o¿eñ:
+
+Kuba Firszt 2,3
+B³a¿ej Urbanek 1,3,4
